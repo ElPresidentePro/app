@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.gmail.osmanygon"
+    version   = "1.0.0">
+
+<name>Sixtolo 2.0</name>
+
+<description>
+En esta aplicacion encontraras una serie de utilidades y noticias que te ayudaran en la vida del manga y de los videojuegos.
+</description>
+
+<icon src="images/icono-4.png" gap:platform="android" gap:density="ldpi" />
+<icon src="images/icono-3.png" gap:platform="android" gap:density="mdpi" />
+<icon src="images/icono-2.png" gap:platform="android" gap:density="hdpi" />
+<icon src="images/icono-1.png" gap:platform="android" gap:density="xdpi" />
+
+<gap:splash src="splash/small.png" gap:platform="android" gap:density="ldpi" />
+<gap:splash src="splash/medium.png" gap:platform="android" gap:density="mdpi" />
+<gap:splash src="splash/large.png" gap:platform="android" gap:density="hdpi" />
+<gap:splash src="splash/xlarge.png" gap:platform="android" gap:density="xhdpi" />
+
+<author href="https://example.com" email="you@example.com">
+Osmany.
+</author>
+
+</widget>
